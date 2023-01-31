@@ -25,8 +25,8 @@ para el sprint 1 del módulo 3 de la PromoC de Data Analytics.
    - [Preparación](https://github.com/Adalab/DA-promo-c-modulo-3-sprint-1-AnaG-Laura/blob/main/Regresión%20Log%C3%ADstica/Leccion-2-Preparacion.ipynb)
    - [Ajuste](https://github.com/Adalab/DA-promo-c-modulo-3-sprint-1-AnaG-Laura/blob/main/Regresión%20Log%C3%ADstica/Lección-3-Ajuste.ipynb)
    - [Métricas](https://github.com/Adalab/DA-promo-c-modulo-3-sprint-1-AnaG-Laura/blob/main/Regresión%20Log%C3%ADstica/Lección-4-Metricas.ipynb)
-   - [Decision Tree]
-   - [Random Forest]
+   - [Decision Tree](https://github.com/Adalab/DA-promo-c-modulo-3-sprint-1-AnaG-Laura/blob/main/Regresi%C3%B3n%20Log%C3%ADstica/Lecci%C3%B3n-5-Decision-Tree.ipynb)
+   - [Random Forest](https://github.com/Adalab/DA-promo-c-modulo-3-sprint-1-AnaG-Laura/blob/main/Regresi%C3%B3n%20Log%C3%ADstica/Lecci%C3%B3n-6-Random-Forest.ipynb)
 ***
    
    ## Librerías utilizadas
